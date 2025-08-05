@@ -3,7 +3,7 @@
 
 ## Contact Information
 
-- **My Website**: [https://www.husky.nz](https://husky.nz)
+- **My Website**: [https://www.husky.nz](https://www.husky.nz)
 - **Email**: peter@husky.nz
 - **Mobile**: 0272500625
 - **Personal Github**: [https://github.com/husky-devel](https://github.com/husky-devel)
@@ -30,6 +30,8 @@ I have a solid foundation in IT infrastructure, cloud computing (Azure, AWS), an
 
 - **https://serv.husky.nz was run on AWS Cloudfront from early 2023 to early 2024**: It was a good way to learn about the way CDN's work
 
+- **Selwyn Youth Council**: Over the last 3 years I have helped give a voice to the youth in selwyn, This has been a good way for me to learn skills like leadership
+
 <div style="page-break-after: always"></div>
 
 ## Timeline of Experience
@@ -51,7 +53,7 @@ I have a solid foundation in IT infrastructure, cloud computing (Azure, AWS), an
 - **IT Support Tools**: Microsoft 365, Intune, Windows 10
 - **Programming**: Python, JavaScript, PowerShell, Bash
 - **Networking**: TCP/IP, VPNs
-- **Other Skills**: Video Editing, Business Analysis
+- **Other Skills**: Video Editing, Business Analysis, Getting it done
 
 ## Certifications
 - Microsoft Certified: Azure Fundamentals
@@ -64,6 +66,9 @@ I have a solid foundation in IT infrastructure, cloud computing (Azure, AWS), an
   *New Zealand Certificate in Information Technology Essentials*  
   February 2024 – June 2024  
   Continuing study with a focus on Azure, AWS, Microsoft 365, and Intune.
+  *New Zealand Diploma in IT Technical Support*  
+  June 2024 - June 2025 
+  Continuing study
 
 - **Rolleston College**  
   *High School, Web Page, Digital/Multimedia and Information Resources Design*  
